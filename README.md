@@ -1,0 +1,1 @@
+# angular-smart-v-dump-component
